@@ -1,0 +1,6 @@
+interface:
+  display_name: "人生导师 · Life Director"
+  short_description: "用四位导师的思维视角梳理人生卡点、比较选择，并形成可验证的下一步"
+  default_prompt: "使用 $life-director 帮我梳理当前人生卡点，提示关键缺失信息，也允许我按现有信息继续分析。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,14 @@
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+.venv/
+state/
+.life-director-state/
+feedback.jsonl
+operations.jsonl
+operation.lock
+candidates/
+evaluations/
+versions/
+*.staged
